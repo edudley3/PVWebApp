@@ -1,0 +1,20 @@
+Thu Jul 23 17:32:04 EDT 2015 : Apache Derby Network Server - 10.10.2.0 - (1582446) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Thu Jul 23 17:32:47 EDT 2015:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-014e-bcd4-8fe8-00000924a55e 
+on database directory /Users/elizabethdudley/Documents/workspace/CS2340/PVWebApp/PVWebApp/PVWebApp/database/MovBee with class loader sun.misc.Launcher$AppClassLoader@6f94fa3e 
+Loaded from file:/Applications/NetBeans/glassfish-4.1/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_25-b17
+user.dir=/Applications/NetBeans/glassfish-4.1/javadb
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.10.2
+derby.system.home=/Users/elizabethdudley/Documents/workspace/CS2340/PVWebApp/PVWebApp/PVWebApp/database
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Jul 23 17:39:20 EDT 2015: Shutting down Derby engine
+----------------------------------------------------------------
+Thu Jul 23 17:39:20 EDT 2015:
+Shutting down instance a816c00e-014e-bcd4-8fe8-00000924a55e on database directory /Users/elizabethdudley/Documents/workspace/CS2340/PVWebApp/PVWebApp/PVWebApp/database/MovBee with class loader sun.misc.Launcher$AppClassLoader@6f94fa3e 
+----------------------------------------------------------------
